@@ -26,3 +26,6 @@ git push origin master = para subir alteraçoes comuns
 
 Utilizando o .gitignore voce consegue esconder arquivos que voce nao deseja que subam para o repositorio remoto.
 basta criar o arquivo e inserir dentro dele nomes, diretorios ou somente extensoes que devem ser ignoradas.
+
+Caso voce tenha feito merda e precise voltar atras para nao ficar fora do ar seu serviço, mas voce não quer perder o código que trabalhou voce pode usar o revert que irá voltar atras no commit que voce quiser, porem nao irá perder os commits feitos anteriormentes, voce podera entrar neles novamente quando estiver pronto para acessar novamente e resolver o bug.
+git revert --no-edit (key da branch)
