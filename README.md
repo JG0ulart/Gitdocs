@@ -15,6 +15,7 @@ git branch (nome) para criar
 git checkout (nome) para alterar de branch
 
 git branch -d (name) delete branch
+git push origin :(name) = delete branch remote
 
 git diff mostra oque foi alterado no arquivo
 
