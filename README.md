@@ -30,3 +30,6 @@ basta criar o arquivo e inserir dentro dele nomes, diretorios ou somente extenso
 
 Caso voce tenha feito merda e precise voltar atras para nao ficar fora do ar seu serviço, mas voce não quer perder o código que trabalhou voce pode usar o revert que irá voltar atras no commit que voce quiser, porem nao irá perder os commits feitos anteriormentes, voce podera entrar neles novamente quando estiver pronto para acessar novamente e resolver o bug.
 git revert --no-edit (key da branch)
+
+para pegar atualizacoes do repositorio remoto ou de outro usuario bastar usar o pull.
+git pull origin master
