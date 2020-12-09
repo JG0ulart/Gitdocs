@@ -16,3 +16,10 @@ git checkout (nome) para alterar de branch
 
 git branch -d (name) delete branch
 
+git diff mostra oque foi alterado no arquivo
+
+git diff --name-only = somente nome do arquivo modificado
+
+após termina todo o processo localmente e caso queira enviar para o seu repositório basta utilizar o comando
+git push -u origin master
+
