@@ -11,7 +11,7 @@ git reset
 git add (arq) ou -A -> git commit -m "Message"
 
 git branch (nome) para criar
-
+git push origin (name) irá subir todas branch mencionadas
 git checkout (nome) para alterar de branch
 
 git branch -d (name) delete branch
