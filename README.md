@@ -36,3 +36,4 @@ git pull origin master
 
 git clone (url do projeto)  = voce clona um projeto no git para poder fazer suas modificacoes como queira.
 
+Para contribuir com um projeto basta acessar o projeto original -> FORK e após dar um clone em sua maquina e fazer as contribuiçoes que vc deseja e depois de dar um push e depois enviar um pull request no diretorio principal
