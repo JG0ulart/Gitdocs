@@ -33,3 +33,6 @@ git revert --no-edit (key da branch)
 
 para pegar atualizacoes do repositorio remoto ou de outro usuario bastar usar o pull.
 git pull origin master
+
+git clone (url do projeto)  = voce clona um projeto no git para poder fazer suas modificacoes como queira.
+
